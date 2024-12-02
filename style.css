@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.hp{
+    background-color: 	#DAA520;
+   
+    
+}
+
+
+header {
+    background-color: #FFD700;
+    height: 70px;
+    background-color: #004d00;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    height: 50px;
+    background-color: 	#DAA520;
+ 
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    text-decoration: none;
+}
+
+nav ul li {
+    margin: 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+nav ul li a:hover {
+    background-color: yellow;
+}
+
+
+
+section {
+    padding: 20px;
+    text-align: center;
+    height: 420px;
+}
+
+footer {
+    background-color: #004d00;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+
+#musicas {
+    padding: 20px;
+    background-color: #f5f5f5;
+    text-align: center;
+  }
+  
+  #musicas h2 {
+    color: #006400; 
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+ 
+  
+  .musica h3 {
+    color: #333;
+    font-size: 20px;
+  }
+  
+  audio {
+    margin-top: 10px;
+  }
+  
